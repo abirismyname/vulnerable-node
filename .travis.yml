@@ -5,7 +5,7 @@ addons:
   token:
     secure: "ZUlr6uJU31v78+1vCITEykZJx9g1m7HGSSfTSnnUfZHlw579jNZ5AG0yscSM1P7Y5AI6w+HN6qz/tZmD25Gc3wfF4fhTnie/b1oDE+PP/qjBh/3RYZ02MGNiqnNHre8Z1LAFgrMpGN5JrnyK3oS7oNl0yE8tGGVOi+8S6Xx0pzdsqh9EreXRTPvF8MCGs4/UqbrbubTVPNOGemg73qEKB4YRR8VFLkzGD1cGSvgc20iL0I8at6AHty40BSdq2Zjt4PT17zKPlRWRTC15kMxggZZYLP63VRe9P8OfXvkIofbrgV3IXcRzjTlMTORVrMj8vtGyvPLrKgWX8B4dhOR8beYVfYYnRX1qw0/Udpj89vYfj2NKnaT00NIuEG0cut+wPszWOriAxArWh2d4+ctqVrfykggckTbWZk3U8516M8ltDadcXOh2A7DEK4FwRnsBC8RgEFZNEVZ3isOyj3eS4sgxwINiaDMfHNfX5zjC3/B4H8jWiYMpVwtbFwblKS/ajbZVun+UaNjP+kzONhJg1JveeZyTfKXtjqQjwyRLDwMOTLFssQYkRsIzDNOdfU7KMr7HEIh7ACmlYThZuNydQTzrHerAgPLuH+rbYoM3DtedHe8JCbHF1ww/o+TsDixhzP27+v3umn3zlvjdkqvkOEx8xkXszHAiUpFES95P3U0="
 node_js:
- - "8"
+ - "14"
 install:
   - npm i -g codecov
   - npm i
